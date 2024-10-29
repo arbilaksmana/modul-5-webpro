@@ -3,6 +3,7 @@
 $barang = [
     ["id" => 1, "nama" => "Buku", "kategori" => "Alat Tulis", "harga" => 20000],
     ["id" => 2, "nama" => "Pulpen", "kategori" => "Alat Tulis", "harga" => 5000],
+    ["id" => 2, "nama" => "Spidol", "kategori" => "Alat Tulis", "harga" => 4000],
 ];
 
 // Fungsi untuk menambah barang baru ke array
